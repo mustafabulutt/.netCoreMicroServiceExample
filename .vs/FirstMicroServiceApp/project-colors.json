@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07609caa-629e-4d0c-a2a0-bb7d26dd1800": {
+      "ProjectGuid": "07609caa-629e-4d0c-a2a0-bb7d26dd1800",
+      "DisplayName": "ProductApi",
+      "ColorIndex": 0
+    },
+    "a46e2652-9210-4d41-9d73-f1368105fb4f": {
+      "ProjectGuid": "a46e2652-9210-4d41-9d73-f1368105fb4f",
+      "DisplayName": "CustomerApi",
+      "ColorIndex": 1
+    },
+    "779d4e3c-37b7-4b10-9e23-a04324002c9d": {
+      "ProjectGuid": "779d4e3c-37b7-4b10-9e23-a04324002c9d",
+      "DisplayName": "ApiGateway",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

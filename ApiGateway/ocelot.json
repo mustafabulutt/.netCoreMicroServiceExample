@@ -1,0 +1,41 @@
+{
+	"Routes": [
+
+		{
+			"DownstreamPathTemplate": "/api/Customer",
+			"DownstreamScheme": "http",
+			"DownstreamHostAndPorts": [
+				{
+					"Host": "localhost",
+					"Port": "7001"
+				}
+			],
+			"UpstreamPathTemplate": "/customerService/customer",
+			"UpstreamHttpMethod": [ "POST", "PUT", "GET" ]
+
+		},
+		{
+			"DownstreamPathTemplate": "/api/Product",
+			"DownstreamScheme": "http",
+			"DownstreamHostAndPorts": [
+				{
+					"Host": "localhost",
+					"Port": "7002"  
+				}
+			],
+			"UpstreamPathTemplate": "/product-service/product",
+			"UpstreamHttpMethod": [ "POST", "PUT", "GET" ]
+
+		}
+	],
+
+	
+		"GlobalConfiguration": {
+			"ServiceDiscoveryProvider": {
+				"Host": "localhost",
+				"Port": "7000",
+				"ConfigurationKey": "Ocelot"
+			}
+		}
+	
+}

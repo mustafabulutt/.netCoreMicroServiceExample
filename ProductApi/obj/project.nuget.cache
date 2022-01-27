@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MxmBVlsGuBjtcJZBspQ3yqCYlP++U6ES3X7YMfOR/qgfh8iiTI5COQ2sZ14yUkgz/VQubaqgGbrqyk23XGyFAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mustafa.bulut\\source\\repos\\FirstMicroServiceApp\\ProductApi\\ProductApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mustafa.bulut\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mustafa.bulut\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mustafa.bulut\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\mustafa.bulut\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\mustafa.bulut\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\mustafa.bulut\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
